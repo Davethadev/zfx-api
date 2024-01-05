@@ -1,0 +1,34 @@
+[
+  {
+    "price": 28,
+    "mining_rate_per_day": 0.25
+  },
+  {
+    "price": 58,
+    "mining_rate_per_day": 1.2
+  },
+  {
+    "price": 110,
+    "mining_rate_per_day": 2.5
+  },
+  {
+    "price": 250,
+    "mining_rate_per_day": 5.3
+  },
+  {
+    "price": 500,
+    "mining_rate_per_day": 10.3
+  },
+  {
+    "price": 1000,
+    "mining_rate_per_day": 18
+  },
+  {
+    "price": 5000,
+    "mining_rate_per_day": 101
+  },
+  {
+    "price": 10000,
+    "mining_rate_per_day": 205
+  }
+]
